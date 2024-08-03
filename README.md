@@ -14,4 +14,5 @@ This project is still under developments. So it currently look simple and not so
 3. The program will ask user to input the url or paste the URLS.
 4. The output of the program will be Displayed below.
 
-![Output](Capture.png)
+
+![Capture](https://github.com/user-attachments/assets/21bcc1c1-ce54-45cd-a7d5-e85ae24133fb)
