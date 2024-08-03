@@ -2,10 +2,9 @@
 
 The URL Status Checker is a tool designed to help users quickly determine the accessibility and responsiveness of web URLs. This program, developed in Go, prompts users to input a URL and then checks its status by making a request to the specified address. It provides valuable feedback about whether the URL is reachable and, if not, offers insights into potential issues.
 
-
 # Take Note 
 
-This project is still under developments. So it currently look simple and not so userfriendly yet. I will update as much as possible soon.
+This project is still under development, so it currently looks simple and not very user-friendly yet. I will update it as much as possible soon.
 
 # How to use 
 
