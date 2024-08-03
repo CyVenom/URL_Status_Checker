@@ -14,4 +14,4 @@ This project is still under developments. So it currently look simple and not so
 3. The program will ask user to input the url or paste the URLS.
 4. The output of the program will be Displayed below.
 
-![OUTPUT](images/Capture.png) 
+https://github.com/CyVenom/URL_Status-_Checker/commit/5cd6735612d8a0d0baf19adcf80c98fffb09575a#commitcomment-145000445
